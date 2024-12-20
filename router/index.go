@@ -17,8 +17,8 @@ func SetupRouter() *gin.Engine {
 	f, _ := os.Create(httpLog)
 	defer f.Close()
 
+	gin.DefaultWriter = io.MultiWriter(f)
 	r := gin.Default()
-	gin.DefaultWriter = io.MultiWriter(f, os.Stdout)
 
 	r.Use(logRequestMiddleware())
 	route := r.Group("/api")

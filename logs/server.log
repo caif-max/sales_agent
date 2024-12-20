@@ -1,0 +1,9 @@
+{"level":"INFO","ts":"2024-12-19T18:27:59.452+0800","caller":"sales_agent/main.go:12","msg":"Hello, Sales Agent!"}
+{"level":"INFO","ts":"2024-12-20T10:26:20.260+0800","caller":"sales_agent/main.go:12","msg":"Hello, Sales Agent!"}
+{"level":"INFO","ts":"2024-12-20T10:27:04.742+0800","caller":"sales_agent/main.go:12","msg":"Hello, Sales Agent!"}
+{"level":"INFO","ts":"2024-12-20T10:28:01.565+0800","caller":"sales_agent/main.go:12","msg":"Hello, Sales Agent!"}
+{"level":"INFO","ts":"2024-12-20T10:30:40.446+0800","caller":"sales_agent/main.go:12","msg":"Hello, Sales Agent!"}
+{"level":"INFO","ts":"2024-12-20T10:44:02.739+0800","caller":"sales_agent/main.go:12","msg":"Hello, Sales Agent!"}
+{"level":"INFO","ts":"2024-12-20T10:44:31.795+0800","caller":"router/index.go:51","msg":"Client IP: ::1, URL: /api, Params: map[], Raw Data: "}
+{"level":"INFO","ts":"2024-12-20T10:44:31.807+0800","caller":"router/index.go:51","msg":"Client IP: ::1, URL: /favicon.ico, Params: map[], Raw Data: "}
+{"level":"INFO","ts":"2024-12-20T10:44:58.036+0800","caller":"router/index.go:51","msg":"Client IP: 127.0.0.1, URL: /, Params: map[], Raw Data: "}
